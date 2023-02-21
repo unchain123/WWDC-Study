@@ -104,7 +104,7 @@
 - Understanding Crashes and Crash Logs
 - What's New in Safari and WebKit
 - Behind the Scenes of the Xcode Build Process
-- iOS Memory Deep Dive
+- [iOS Memory Deep Dive](https://github.com/unchain123/WWDC-Study/blob/main/2018/iOSMemoryDeepDive.md)
 - Testing Tips & Tricks
 - Swift Generics (Expanded)
 - New Localization Workflows in Xcode 10
@@ -142,7 +142,6 @@
 <br/>
 <br/>
 
-# WWDC2016
 ![WWDC2016](https://user-images.githubusercontent.com/52434820/183303260-e659951d-ed0b-4e46-ada1-c2f8bee73e6c.png)
 
 - What's New in the Apple Push Notification Service
