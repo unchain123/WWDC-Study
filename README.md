@@ -81,7 +81,7 @@
 - What's New in Swift
 - Using Core Data With CloudKit
 - Introducing SwiftUl: Building Your First App
-- What's New in iOS Design
+- [What's New in iOS Design](https://github.com/unchain123/WWDC-Study/pull/3/commits/45f6b7bcde1d2cadc8b1f6bf893a0e991ca10857)
 - Introducing Multiple Windows on iPad
 - LLDB: Beyond "po"
 - Accessibility Inspector
