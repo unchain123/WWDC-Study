@@ -28,6 +28,9 @@
 
 # WWDC2021
 ![WWDC2021](https://user-images.githubusercontent.com/52434820/183303234-9b85d2f3-6d94-41ae-ad70-0b9a99551b75.jpg)
+
+
+- [Make blazing fast lists and collection views](https://github.com/unchain123/WWDC-Study/pull/5/commits/ee10609cdb70c15834b63bc6eddb2851587f82ed)
 ---------
 
 <br/>
@@ -73,7 +76,7 @@
 - What's New in Clang and LLVM
 - Data Flow Through SwiftUI
 - Creating Swift Packages
-- Introducing Combine
+- [Introducing Combine](https://github.com/unchain123/WWDC-Study/pull/4/commits/f3371a58a98e91f671be8bc3bd0486bd699c1aa9)
 - Testing in Xcode
 - Advances in Networking, Part 1
 - What's New in Xcode 11
@@ -124,7 +127,7 @@
 - I Have This Idea For An App...
 - Best Practices and What's New with In-App Purchases
 - Source Control Workflows in Xcode
-- What's New in Testing
+- [What's New in Testing](https://github.com/unchain123/WWDC-Study/blob/main/2018/What's%20New%20in%20Testing.md)
 
 ---------
 <br/>
