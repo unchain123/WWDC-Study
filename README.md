@@ -55,7 +55,10 @@
 # WWDC2019
 <img width="1213" alt="WWDC2019" src="https://user-images.githubusercontent.com/52434820/183303244-a8109306-d31a-45fb-8579-a33b893df6ee.png">
 
-- Combine in Practice
+- [Introducing Combine](https://github.com/unchain123/WWDC-Study/pull/4/commits/f3371a58a98e91f671be8bc3bd0486bd699c1aa9)
+- [What's New in iOS Design](https://github.com/unchain123/WWDC-Study/pull/3/commits/45f6b7bcde1d2cadc8b1f6bf893a0e991ca10857)
+- [Combine in Practice](https://github.com/unchain123/WWDC-Study/blob/main/2019/CombineInPractice.md)
+- [LLDB: Beyond "po"](https://github.com/unchain123/WWDC-Study/blob/main/2019/LLDB_Beyond_po.md)
 - Modern Swift API Design
 - Making Apps with Core Data
 - Integrating SwiftUI
@@ -76,7 +79,6 @@
 - What's New in Clang and LLVM
 - Data Flow Through SwiftUI
 - Creating Swift Packages
-- [Introducing Combine](https://github.com/unchain123/WWDC-Study/pull/4/commits/f3371a58a98e91f671be8bc3bd0486bd699c1aa9)
 - Testing in Xcode
 - Advances in Networking, Part 1
 - What's New in Xcode 11
@@ -84,9 +86,7 @@
 - What's New in Swift
 - Using Core Data With CloudKit
 - Introducing SwiftUl: Building Your First App
-- [What's New in iOS Design](https://github.com/unchain123/WWDC-Study/pull/3/commits/45f6b7bcde1d2cadc8b1f6bf893a0e991ca10857)
 - Introducing Multiple Windows on iPad
-- LLDB: Beyond "po"
 - Accessibility Inspector
 - Creating an Accessible Reading Experience
 
@@ -163,6 +163,8 @@
 ![WWDC2015](https://user-images.githubusercontent.com/52434820/183303262-412e2238-f006-4c6e-b58a-a87cb51ccf80.jpg)
 - [UI Testing in Xcode](https://github.com/unchain123/WWDC-Study/blob/main/2015/UI%20Testing%20in%20Xcode.md)
 - [Optimizing Swift Performance](https://github.com/unchain123/WWDC-Study/blob/main/2015/OptimizingSwiftPerformance.md)
+- [What's New in Notifications](https://github.com/unchain123/WWDC-Study/blob/main/2015/WhatsNewinNotifications.md)
+- [Networking with NSURLSession](https://github.com/unchain123/WWDC-Study/blob/main/2015/Networking%20with%20NSURLSession.md)
 - Content Protection for HTTP Live Streaming
 - Privacy and Your App
 - What's New in LLDB
@@ -170,15 +172,13 @@
 - Security and Your Apps
 - App Thinning in Xcode
 - Protocol-Oriented Programming in Swift
-- Networking with NSURLSession
 - What's New in Storboards
-
 - Mysteries of Auto Layout, Part 1
 - Mysteries of Auto Layout, Part 2
 - What's New in Core Data
 - Advanced NSOperations
 - Performance on iOS and watchOS
-- What's New in Notifications
+
 ---------
 
 
