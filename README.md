@@ -43,6 +43,8 @@
 ![WWDC2020](https://user-images.githubusercontent.com/52434820/183303238-b448bc2f-61dd-4ce1-946c-6245d38792ca.png)
 
 - [Stacks Grid and Outlines in SwiftUI](https://github.com/unchain123/WWDC-Study/pull/11/commits/ef34634c85c4e0456304802119ffadd3ac7689a9)
+- [Inspect, modify, and construct PencilKit drawings + Deliver a better HLS audio experience](https://github.com/unchain123/WWDC-Study/pull/19)
+- What's new in PencilKit(https://github.com/unchain123/WWDC-Study/pull/17/commits/96fe6da826383ad736465f708ebb29800a6de075)
 - Explore modern networking
 - Swift in Xcode 12
 - Connect with Core Data
@@ -65,6 +67,7 @@
 - [LLDB: Beyond "po"](https://github.com/unchain123/WWDC-Study/blob/main/2019/LLDB_Beyond_po.md)
 - [Advances in UI Data Sources](https://github.com/unchain123/WWDC-Study/pull/13/commits/35e2c32af26016de4547e60a604aa887d451dad8)
 - [Introducing PencilKit](https://github.com/unchain123/WWDC-Study/pull/15/commits/a658617f392c5324bc3dfda453713355ec58f11d)
+- [Introducing PencilKit](https://github.com/unchain123/WWDC-Study/pull/15/commits/a658617f392c5324bc3dfda453713355ec58f11d)
 - Modern Swift API Design
 - Making Apps with Core Data
 - Integrating SwiftUI
@@ -83,7 +86,7 @@
 - SwiftUI Essentials
 - What's New in Apple File Systems
 - What's New in Clang and LLVM
-- Data Flow Through SwiftUI
+- [Data Flow Through SwiftUI](https://github.com/unchain123/WWDC-Study/pull/18/commits/1ad600d91d8d4d4d40b917d3c6857caea56b3920)
 - Creating Swift Packages
 - Testing in Xcode
 - Advances in Networking, Part 1
@@ -107,6 +110,7 @@
 - [What's New in CoreNFC](https://github.com/unchain123/WWDC-Study/commit/ab2577d0351c2d144f902e6a356749bb56ca4116)
 - [Source Control Workflows in Xcode](https://github.com/unchain123/WWDC-Study/commit/39bbb5a5702a2d20f86aeed94cdd7577c436e994)
 - [What's New in Testing](https://github.com/unchain123/WWDC-Study/blob/main/2018/What's%20New%20in%20Testing.md)
+- [Core Data Best Practices](https://github.com/unchain123/WWDC-Study/pull/16/commits/5e801242bdd9f0cb014660e003fe8fedd2f9ea4e)
 - Automating App Store Connect
 - VoiceOver: App Testing Beyond The Visuals
 - Getting to Know Swift Package Manager
@@ -129,7 +133,6 @@
 - Building Faster in Xcode
 - Optimizing Your App for Today's Internet
 - What's New in LLVM
-- Core Data Best Practices
 - A Tour of UICollectionView
 - What's New in Swift
 - What's New in Cocoa Touch
@@ -173,6 +176,7 @@
 - [Optimizing Swift Performance](https://github.com/unchain123/WWDC-Study/blob/main/2015/OptimizingSwiftPerformance.md)
 - [What's New in Notifications](https://github.com/unchain123/WWDC-Study/blob/main/2015/WhatsNewinNotifications.md)
 - [Networking with NSURLSession](https://github.com/unchain123/WWDC-Study/blob/main/2015/Networking%20with%20NSURLSession.md)
+- [What's New in CoreData](https://github.com/unchain123/WWDC-Study/pull/14/commits/af34781ad9c01cc52eae3420474e87019b1c4a1b)
 - Content Protection for HTTP Live Streaming
 - Privacy and Your App
 - What's New in LLDB
