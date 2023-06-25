@@ -22,6 +22,9 @@
 
 <img src = "https://github.com/unchain123/WWDC-Study/assets/98506825/6cbc26c5-fd23-4ae4-8675-9048ae67e07a" width=1100 height=600>
 
+- [Meet Swift Data](https://github.com/unchain123/WWDC-Study/commit/56a9cbc91a71c63eec6803603fdcd3edca3c7928#diff-233caea9a1f0c59ec453ea04a52ef6796e2d1cc18598d74534119177d5a70f82)
+- [Migrate to SwiftData](https://github.com/unchain123/WWDC-Study/commit/56a9cbc91a71c63eec6803603fdcd3edca3c7928#diff-3c608bb1905e17fea5bc020097fd3babb7df9b64d7eca6b212a15cf5279fb9cf)
+
 
 ----------
 
@@ -42,6 +45,7 @@
 
 - [Make blazing fast lists and collection views](https://github.com/unchain123/WWDC-Study/pull/5/commits/ee10609cdb70c15834b63bc6eddb2851587f82ed)
 - [Protect mutable state with Swift Actors](https://github.com/unchain123/WWDC-Study/pull/10/commits/e4f0815a73875c2b3c2470c279ed2ddb30fae623)
+- [What's new in UIKit](https://github.com/unchain123/WWDC-Study/commit/4fd329031f407a571960daf2f00e75c9e535a78d)
 ---------
 
 <br/>
@@ -52,7 +56,8 @@
 
 - [Stacks Grid and Outlines in SwiftUI](https://github.com/unchain123/WWDC-Study/pull/11/commits/ef34634c85c4e0456304802119ffadd3ac7689a9)
 - [Inspect, modify, and construct PencilKit drawings + Deliver a better HLS audio experience](https://github.com/unchain123/WWDC-Study/pull/19)
-- What's new in PencilKit(https://github.com/unchain123/WWDC-Study/pull/17/commits/96fe6da826383ad736465f708ebb29800a6de075)
+- [What's new in PencilKit](https://github.com/unchain123/WWDC-Study/pull/17/commits/96fe6da826383ad736465f708ebb29800a6de075)
+- [Embrace Swift type inference ](https://github.com/unchain123/WWDC-Study/commit/e007cf55aeee7d737ff04474d588bb57304732ba)
 - Explore modern networking
 - Swift in Xcode 12
 - Connect with Core Data
@@ -76,6 +81,8 @@
 - [Advances in UI Data Sources](https://github.com/unchain123/WWDC-Study/pull/13/commits/35e2c32af26016de4547e60a604aa887d451dad8)
 - [Introducing PencilKit](https://github.com/unchain123/WWDC-Study/pull/15/commits/a658617f392c5324bc3dfda453713355ec58f11d)
 - [Introducing PencilKit](https://github.com/unchain123/WWDC-Study/pull/15/commits/a658617f392c5324bc3dfda453713355ec58f11d)
+- [Core NFC Enhancements](https://github.com/unchain123/WWDC-Study/commit/4c0dd6aeaf4a0abc82aa8cde3c18a95a4708f85c#diff-b60eff9aaf53ce475d97a6107f2e0f2bdc1ebfd663169a1e659ea89513d15cc3)
+- [Data Flow Through SwiftUI](https://github.com/unchain123/WWDC-Study/pull/18/commits/1ad600d91d8d4d4d40b917d3c6857caea56b3920)
 - Modern Swift API Design
 - Making Apps with Core Data
 - Integrating SwiftUI
@@ -86,7 +93,6 @@
 - Accessibility in SwiftUI
 - Great Developer Habits
 - In-App Purchases and Using Server-to-Server Notifications
-- Core NFC Enhancements 
 - Visual Design and Accessibility
 - Understanding CPU Usage with Web Inspector
 - Introducing Sign In with Apple
@@ -94,7 +100,6 @@
 - SwiftUI Essentials
 - What's New in Apple File Systems
 - What's New in Clang and LLVM
-- [Data Flow Through SwiftUI](https://github.com/unchain123/WWDC-Study/pull/18/commits/1ad600d91d8d4d4d40b917d3c6857caea56b3920)
 - Creating Swift Packages
 - Testing in Xcode
 - Advances in Networking, Part 1
@@ -119,6 +124,8 @@
 - [Source Control Workflows in Xcode](https://github.com/unchain123/WWDC-Study/commit/39bbb5a5702a2d20f86aeed94cdd7577c436e994)
 - [What's New in Testing](https://github.com/unchain123/WWDC-Study/blob/main/2018/What's%20New%20in%20Testing.md)
 - [Core Data Best Practices](https://github.com/unchain123/WWDC-Study/pull/16/commits/5e801242bdd9f0cb014660e003fe8fedd2f9ea4e)
+- [iOS Memory Deep Dive](https://github.com/unchain123/WWDC-Study/blob/main/2018/iOSMemoryDeepDive.md)
+- [Testing Tips & Tricks](https://github.com/unchain123/WWDC-Study/commit/7afa1b992ee59ba85b6981f79ba921ede255b612)
 - Automating App Store Connect
 - VoiceOver: App Testing Beyond The Visuals
 - Getting to Know Swift Package Manager
@@ -128,8 +135,6 @@
 - Understanding Crashes and Crash Logs
 - What's New in Safari and WebKit
 - Behind the Scenes of the Xcode Build Process
-- [iOS Memory Deep Dive](https://github.com/unchain123/WWDC-Study/blob/main/2018/iOSMemoryDeepDive.md)
-- Testing Tips & Tricks
 - Swift Generics (Expanded)
 - New Localization Workflows in Xcode 10
 - Managing Documents In Your iOS Apps
@@ -185,6 +190,7 @@
 - [What's New in Notifications](https://github.com/unchain123/WWDC-Study/blob/main/2015/WhatsNewinNotifications.md)
 - [Networking with NSURLSession](https://github.com/unchain123/WWDC-Study/blob/main/2015/Networking%20with%20NSURLSession.md)
 - [What's New in CoreData](https://github.com/unchain123/WWDC-Study/pull/14/commits/af34781ad9c01cc52eae3420474e87019b1c4a1b)
+- [What's New in Core Data](https://github.com/unchain123/WWDC-Study/commit/af34781ad9c01cc52eae3420474e87019b1c4a1b)
 - Content Protection for HTTP Live Streaming
 - Privacy and Your App
 - What's New in LLDB
@@ -195,7 +201,6 @@
 - What's New in Storboards
 - Mysteries of Auto Layout, Part 1
 - Mysteries of Auto Layout, Part 2
-- [What's New in Core Data](https://github.com/unchain123/WWDC-Study/commit/af34781ad9c01cc52eae3420474e87019b1c4a1b)
 - Advanced NSOperations
 - Performance on iOS and watchOS
 
